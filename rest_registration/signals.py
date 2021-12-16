@@ -13,3 +13,4 @@ user_activated =  Signal() #Signal(providing_args=["user", "request"])
 # A user has verified his or her new email.
 user_changed_email =  Signal() #Signal(providing_args=["user", "new_email", "old_email", "request"])
 
+
